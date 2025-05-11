@@ -156,7 +156,7 @@ CMD ["python", "bot.py"]
 For questions or custom development:  
 - **Telegram:** [@IvanZhutyaev](https://t.me/zhutyaevivan)  
 - **Email:** ivan.zhutyaev@mail.ru  
-- **GitHub:** [Open My Git Hub](https://github.com/your-repo/telegram-support-bot/issues)  
+- **GitHub:** [Open My Git Hub](https://github.com/IvanZhutyaev)  
 
 ---
 
