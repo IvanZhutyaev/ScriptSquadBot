@@ -25,7 +25,7 @@
 
 1. **Clone the repository** (if applicable):  
    ```bash
-   git clone https://github.com/your-repo/telegram-support-bot.git
+   git clone https://github.com/IvanZhutyaev/ScriptSquadBot.git
    cd telegram-support-bot
    ```
 
